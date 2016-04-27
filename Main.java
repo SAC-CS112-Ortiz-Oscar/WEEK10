@@ -27,3 +27,5 @@ public class Main
 	}
 
 }
+
+// Please also keep track of game (wins/loses)
